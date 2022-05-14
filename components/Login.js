@@ -8,7 +8,7 @@ function Login() {
           <div className="flex flex-col absolute z-50 h-4/6  w-full items-center justify-center space-y-4">        
             <Image className="object-cover rounded-full" src="/meta2.jpg" height={200} width={200}/>  
             <button onClick={authenticate} className="bg-yellow-500 rounded-lg p-5 font-bold animate-pulse">
-              Login to the Metaverse</button>
+              Login to the Web3-Chat-Verse</button>
           </div> 
           <div className="w-full h-screen"> 
           {/*background cover*/}
